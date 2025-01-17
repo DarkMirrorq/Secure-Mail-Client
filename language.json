@@ -1,4 +1,4 @@
-{            en: {
+{            "en": {
                 "navbar-title": "Secure Mail",
                 "features-link": "Features",
                 "pricing-link": "Pricing",
@@ -19,7 +19,7 @@
                 "privacy-policy-link": "Privacy Policy",
                 "terms-service-link": "Terms of Service"
             },
-            tr: {
+            "tr": {
                 "navbar-title": "Güvenli Mail",
                 "features-link": "Özellikler",
                 "pricing-link": "Fiyatlar",
@@ -40,7 +40,7 @@
                 "privacy-policy-link": "Gizlilik Politikası",
                 "terms-service-link": "Kullanım Şartları"
             },
-            de: {
+            "de": {
                 "navbar-title": "Sichere E-Mail",
                 "features-link": "Funktionen",
                 "pricing-link": "Preise",
@@ -61,7 +61,7 @@
                 "privacy-policy-link": "Datenschutzrichtlinie",
                 "terms-service-link": "Nutzungsbedingungen"
             },
-            fr: {
+          "fr": {
                 "navbar-title": "Mail Sécurisé",
                 "features-link": "Caractéristiques",
                 "pricing-link": "Tarifs",
@@ -82,7 +82,7 @@
                 "privacy-policy-link": "Politique de Confidentialité",
                 "terms-service-link": "Conditions d'Utilisation"
             },
-            ar: {
+            "ar": {
                 "navbar-title": "البريد الآمن",
                 "features-link": "الميزات",
                 "pricing-link": "الأسعار",
@@ -104,7 +104,7 @@
                 "terms-service-link": "شروط الخدمة"
 
             },
-            es: {
+            "es": {
                 "navbar-title": "Correo Seguro",
                 "features-link": "Características",
                 "pricing-link": "Precios",
@@ -125,7 +125,7 @@
                 "privacy-policy-link": "Política de Privacidad",
                 "terms-service-link": "Términos de Servicio"
             },
-            ru: {
+            "ru": {
                 "navbar-title": "Безопасная Почта",
                 "features-link": "Функции",
                 "pricing-link": "Цены",
@@ -146,7 +146,7 @@
                 "privacy-policy-link": "Политика Конфиденциальности",
                 "terms-service-link": "Условия Использования"
             },
-            it: {
+            "it": {
                 "navbar-title": "Mail Sicura",
                 "features-link": "Caratteristiche",
                 "pricing-link": "Prezzi",

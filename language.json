@@ -1,4 +1,4 @@
-            en: {
+{            en: {
                 "navbar-title": "Secure Mail",
                 "features-link": "Features",
                 "pricing-link": "Pricing",
@@ -167,3 +167,4 @@
                 "privacy-policy-link": "Informativa sulla Privacy",
                 "terms-service-link": "Termini di Servizio"
             }
+}
